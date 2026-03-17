@@ -40,4 +40,4 @@ Sistema de pedidos desenvolvido em Java com foco em conceitos de Programação O
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/dsouza860/sistema-pedidos.git
+git clone https://github.com/dsouza860/Sistema-de-Pedidos-Java-Console.git
